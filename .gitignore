@@ -1,0 +1,14 @@
+# Arduino build output
+build/
+build_*/
+*.bin
+*.elf
+*.map
+
+# Local credentials and generated diagnostics
+secrets.h
+*.cfg
+*.log
+TELEGRAM.CFG
+.DS_Store
+Thumbs.db
